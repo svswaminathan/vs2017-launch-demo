@@ -1,8 +1,0 @@
-version: '2'
-
-services:
-  vs2017-mvc:
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-    ports:
-      - "80"

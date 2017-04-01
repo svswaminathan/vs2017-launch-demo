@@ -1,8 +1,0 @@
-version: '2'
-
-services:
-  vs2017-mvc:
-    image: vs2017-mvc
-    build:
-      context: ./vs2017-mvc
-      dockerfile: Dockerfile
